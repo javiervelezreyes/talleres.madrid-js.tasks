@@ -1,4 +1,4 @@
-# Arquitecturas Reactivas en JavaScript
+# Desarrollo Orientado a Tareas en JavaScript
 
 ### Keywords
 
