@@ -8,7 +8,7 @@ const ADD = 'add'
 const SUB = 'sub'
 const MUL = 'mul'
 const DIV = 'div'
-const MS  = 20
+const MS  = 200
 
 let { Defer } = Helper
 let { Wait  } = Helper

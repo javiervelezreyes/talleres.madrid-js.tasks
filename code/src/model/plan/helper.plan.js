@@ -33,7 +33,9 @@ function Helper () {
         return lx - ly
       })
       for (let task of tasks) {
-        task.handler (task.context)
+        let { handler } = task
+        let { context } = task
+        handler (context)
       }
     })
     return {

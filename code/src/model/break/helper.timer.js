@@ -23,7 +23,7 @@ function Helper (config) {
   }
   
   function reset () {
-    set (node, 0)
+    set (0)
   }
  
   return {
